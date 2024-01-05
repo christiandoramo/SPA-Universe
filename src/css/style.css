@@ -1,0 +1,17 @@
+main.home {
+    justify-content: center;
+    align-items: center;
+}
+
+.container.home {
+    background-image: url('./../../assets/images/mountains-universe-1.png');
+}
+
+.container.exploracao {
+    background-image: url('./../../assets/images/mountains-universe-3.png');
+    
+}
+
+.container.o-universo {
+    background-image: url('./../../assets/images/mountains-universe02.png');
+}
